@@ -1,13 +1,13 @@
 # ml-web-app
 Web app with Flask and ml model
 
-git clone https://github.com/paco-portada/ml-web-app.git
-
 pip install scikit-learn
 
 pip install pandas
 
 pip install flask
+
+git clone https://github.com/paco-portada/ml-web-app.git
 
 cd ml-web-app/deploy-lr-project
 
