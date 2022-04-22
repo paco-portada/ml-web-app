@@ -10,6 +10,7 @@ pip3 install flask
 git clone https://github.com/paco-portada/ml-web-app.git
 
 (abrir el puerto 5000 en el cortafuegos)
+
 sudo ufw allow 5000
 
 cd ml-web-app/deploy-lr-project
