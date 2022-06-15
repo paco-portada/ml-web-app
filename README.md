@@ -1,5 +1,5 @@
 # ml-web-app
-Web app with Flask and ml model
+## [Web app with Flask and ml model](https://towardsdatascience.com/how-to-easily-build-your-first-machine-learning-web-app-in-python-c3d6c0f0a01c)
 
 pip3 install scikit-learn
 
